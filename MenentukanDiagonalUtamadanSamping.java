@@ -25,5 +25,5 @@ public class MenentukanDiagonalUtamadanSamping { //membuat kelas dengan nama ter
         for (int i = 0; i < n; i++) { 
             System.out.print(matriks[i][n - 1 - i] + " "); ////menampilkan elemen diagonal samping yang berada di baris i dan kolom n-1-i
         }
-    }
+    } 
 }
